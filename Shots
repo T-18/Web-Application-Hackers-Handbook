@@ -1,0 +1,15 @@
+Security awareness is a double-edged sword.
+[Chapter 1]
+Vulnerabilities in web applications arise because of a single core problem: users can submit arbitrary input.
+The majority of attacks against web applications involve sending input to the server that is crafted to cause some event that was not expected or desired by the application’s designer.
+[Chapter 2]
+The application’s core security mechanisms represent its primary attack surface, knowledge of security mechanisms are intended to function before an effective attack on system.
+[Chapter 5]
+There are two main ways in which applications make themselves vulnerable are 1. By transmitting data via the client on the assumption that it will not be modified and 2. By relying on client-side checks on user input
+[Chapter 6]
+Authentication mechanisms contain a wealth of different vulnerabilities, in both design and implementation, which an attacker can leverage to gain unauthorized access.These range from obvious defects, such as bad passwords and susceptibility to brute-force attacks, to more obscure problems within the authentication logic.
+Multistage login mechanisms - Multistage login mechanisms are used in many security-critical applications and describe the new kinds of vulnerabilities.
+
+Refer - https://portswigger.net/web-security/web-application-hackers-handbook
+
+
